@@ -22,10 +22,10 @@
 
 ## Work Division
 
-- Saif - Data Cleaning
-- Zean - Question 2
-- Melissa - Question 3
-- Robert - Question 1
+- Saif - Data Cleaning - manually processed
+- Zean - Question 2 - Working directory/Seasonality.ipynb
+- Melissa - Question 3 - Most popular artists.ipynb
+- Robert - Question 1 - USGlobalCorrelation.ipynb
 
 
 ## Data Source
